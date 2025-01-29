@@ -14,7 +14,7 @@
 ---
 
 ### 📊 Estadísticas de GitHub  
-![Tu Nombre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
+![Tu Nombre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=javiers2004&show_icons=true&theme=radical)  
 
 📫 **Contáctame:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/javier-santamaría-pascual-871597213)  
