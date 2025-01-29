@@ -1,16 +1,25 @@
-## Hi there 👋
+### 👋 ¡Hola! Soy Javier Santamaría 
 
-<!--
-**javiers2004/javiers2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Desarrollador apasionado por la tecnología y la innovación. 
+💡 Interesado en la programación, la electrónica y la automatización.  
+🚀 Siempre aprendiendo y explorando nuevas herramientas.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías y Herramientas  
+💻 **Lenguajes:** Python, Java, JavaScript, C++, C, SQL, HTML  
+🛠 **Frameworks & Librerías:** Flask, React, Bootstrap  
+🔌 **Hardware:** Microcontroladores, IoT, Raspberry Pi  
+
+---
+
+### 📊 Estadísticas de GitHub  
+![Tu Nombre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)  
+
+📫 **Contáctame:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/javier-santamaría-pascual-871597213)  
+[![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/javier.santamaria_)  
+
+---
+
+⭐ **¡No olvides seguirme y revisar mis proyectos!** 😃 
