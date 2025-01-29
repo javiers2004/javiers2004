@@ -18,7 +18,7 @@
 
 📫 **Contáctame:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/javier-santamaría-pascual-871597213)  
-[![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/javier.santamaria_)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/javier.santamaria_)
 
 ---
 
