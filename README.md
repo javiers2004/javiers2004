@@ -24,4 +24,4 @@
 
 ⭐ **¡No olvides seguirme y revisar mis proyectos!** 😃 
 
-![snake gif](https://github.com/javiers2004/javiers2004/blob/output/github-snake.svg)
+![GitHub Snake](https://github.com/javiers2004/javiers2004/blob/output/github-snake.svg)
