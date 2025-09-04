@@ -24,8 +24,9 @@
 
 ⭐ **¡No olvides seguirme y revisar mis proyectos!** 😃 
 
-##  Mi GitHub Skyline
-![Skyline de mis contribuciones](assets/skyline.gif)
+
+<img src="https://raw.githubusercontent.com/javiers2004/javiers2004/output/snake.svg" alt="Snake animation" />
+
 ###
 
 
