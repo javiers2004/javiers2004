@@ -8,7 +8,7 @@
 
 <!-- Social badges -->
 <p>
-  <a href="https://github.com/JavierSantamaria">
+  <a href="https://github.com/javiers2004">
     <img src="https://img.shields.io/github/followers/JavierSantamaria?label=Followers&style=for-the-badge&logo=github&color=7c3aed&labelColor=1e1b2e"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=JavierSantamaria&style=for-the-badge&color=7c3aed&label=VISITAS+AL+PERFIL"/>
