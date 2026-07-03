@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c7a7b,100:38b2ac&height=230&text=Javier%20Santamar%C3%ADa&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Software%20%C2%B7%20Hardware%20%C2%B7%20IA%20%C2%B7%20y%20mucho%20caf%C3%A9&descSize=20&descAlignY=75" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:2c7a7b,100:38b2ac&height=200&text=Javier%20Santamar%C3%ADa%20Pascual&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20%C2%B7%20Hardware%20%C2%B7%20IA%20%C2%B7%20y%20mucho%20caf%C3%A9&descSize=18&descAlignY=72&fontAlignY=45" width="100%"/>
 </div>
 
 <div align="center">
@@ -115,7 +115,7 @@ Desarrollador con un pie en el software y otro en el hardware. Si tiene código,
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:38b2ac,50:2c7a7b,100:0f2027&height=140&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38b2ac,50:2c7a7b,100:0f2027&height=100&section=footer" width="100%"/>
 
   *Gracias por llegar hasta aquí. La serpiente y yo te lo agradecemos.* 🐍
 </div>
