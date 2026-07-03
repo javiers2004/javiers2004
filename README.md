@@ -21,23 +21,6 @@ Desarrollador full stack con experiencia en hardware y sistemas embebidos, actua
 
 ## 🚀 Proyectos Destacados
 
-<div align="center">
-
-<a href="https://github.com/javiers2004/RL-E1-CrossTheRoad">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiers2004&repo=RL-E1-CrossTheRoad&theme=transparent&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=8b949e"/>
-</a>
-<a href="https://github.com/javiers2004/STM32-Drone-Stabilizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiers2004&repo=STM32-Drone-Stabilizer&theme=transparent&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=8b949e"/>
-</a>
-<a href="https://github.com/javiers2004/beans_classification">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiers2004&repo=beans_classification&theme=transparent&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=8b949e"/>
-</a>
-<a href="https://github.com/javiers2004/javiers2004">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=javiers2004&repo=javiers2004&theme=transparent&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=8b949e"/>
-</a>
-
-</div>
-
 <br/>
 
 | | Proyecto | Descripción |
