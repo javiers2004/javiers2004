@@ -8,7 +8,7 @@
 
 <br/>
 
-## 👋 Hola, soy Javier
+## 👨‍💻 Sobre mí
 
 Desarrollador full stack con experiencia en hardware y sistemas embebidos, actualmente en mi último año de Ingeniería Informática.
 
@@ -42,7 +42,7 @@ Desarrollador full stack con experiencia en hardware y sistemas embebidos, actua
 
 | | Proyecto | Descripción |
 |---|----------|------------|
-| 🐔 | **Cross The Road RL** | Entorno personalizado de Gymnasium con agente entrenado mediante Q-Learning, SARSA y Expected SARSA. |
+| 🤖 | **Cross The Road RL** | Entorno personalizado de Gymnasium con agente entrenado mediante Q-Learning, SARSA y Expected SARSA. |
 | 🚁 | **STM32 Drone Stabilizer** | Sistema de estabilización de vuelo para dron basado en STM32 y ESP32, con panel de control de vuelo. |
 | 🫘 | **Beans Classification** | Clasificación multiclase sobre datos desbalanceados con ensembles (Random Forest, LightGBM, Stacking) y optimización con Optuna. |
 | 💰 | **ExpenSense** | Aplicación de gestión de gastos compartidos con Spring Boot, PostgreSQL y asistente conversacional con IA. |
@@ -92,7 +92,7 @@ Desarrollador full stack con experiencia en hardware y sistemas embebidos, actua
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/javiers2004/javiers2004/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/javiers2004/javiers2004/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/javiers2004/javiers2004/output/github-contribution-grid-snake.svg"/>
+    <img alt="Animación de contribuciones" src="https://raw.githubusercontent.com/javiers2004/javiers2004/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
 
