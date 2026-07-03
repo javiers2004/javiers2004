@@ -1,26 +1,25 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:2c7a7b,100:38b2ac&height=200&text=Javier%20Santamar%C3%ADa%20Pascual&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20%C2%B7%20Hardware%20%C2%B7%20IA%20%C2%B7%20y%20mucho%20caf%C3%A9&descSize=18&descAlignY=72&fontAlignY=45" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:2c7a7b,100:38b2ac&height=200&text=Javier%20Santamar%C3%ADa%20Pascual&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Software%20%C2%B7%20Hardware%20%C2%B7%20Inteligencia%20Artificial&descSize=18&descAlignY=72&fontAlignY=45" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=38B2AC&center=true&vCenter=true&width=650&lines=Ingenier%C3%ADa+Inform%C3%A1tica+%7C+%C3%9Altimo+a%C3%B1o+%F0%9F%8E%93;Hablo+con+m%C3%A1quinas...+a+veces+me+responden;It+works+on+my+machine%E2%84%A2;Mi+pato+de+goma+est%C3%A1+en+n%C3%B3mina+%F0%9F%A6%86" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&pause=800&color=38B2AC&center=true&vCenter=true&width=650&lines=Ingenier%C3%ADa+Inform%C3%A1tica+%7C+%C3%9Altimo+a%C3%B1o;Full+Stack+Developer+%26+IoT+Builder;RAG+%C2%B7+Agentes+de+IA+%C2%B7+Reinforcement+Learning;Del+microcontrolador+a+la+nube" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 ## 👋 Hola, soy Javier
 
-Desarrollador con un pie en el software y otro en el hardware. Si tiene código, lo programo; si tiene cables, lo suelto... digo, lo sueldo.
+Desarrollador full stack con experiencia en hardware y sistemas embebidos, actualmente en mi último año de Ingeniería Informática.
 
-- 🎓 Último año de **Ingeniería Informática**
 - 🚀 Construyendo un **SaaS de mantenimiento industrial con IA** (RAG + datos de sensores en tiempo real)
-- 🤖 Obsesión actual: **agentes de IA y reinforcement learning**
-- 🔌 Si tiene pines GPIO, ya me tiene ganado
-- 🐛 Mi código funciona y no sé por qué. Cuando falla, tampoco.
+- 🤖 Especializándome en **agentes de IA y reinforcement learning**
+- 🔌 Experiencia con **Raspberry Pi, ESP32, STM32 y microcontroladores**
+- 🌱 Aprendiendo arquitecturas cloud y despliegue de sistemas en producción
 
 <br/>
 
-## 🚀 Proyectos que me quitan horas de sueño
+## 🚀 Proyectos Destacados
 
 <div align="center">
 
@@ -41,16 +40,16 @@ Desarrollador con un pie en el software y otro en el hardware. Si tiene código,
 
 <br/>
 
-| | Proyecto | ¿Qué hace? |
+| | Proyecto | Descripción |
 |---|----------|------------|
-| 🐔 | **Cross The Road RL** | Un agente que aprendió a cruzar la carretera por refuerzo. Murió miles de veces para que tú no tengas que hacerlo. |
-| 🚁 | **STM32 Drone Stabilizer** | Estabilizador de vuelo para dron con STM32 y ESP32. La gravedad sigue ganando, pero cada vez por menos. |
-| 🫘 | **Beans Classification** | ML para clasificar 7 tipos de alubias. Sí, alubias. El dataset estaba desbalanceado; mi vida también. |
-| 💰 | **ExpenSense** | App de gastos compartidos con Spring Boot. Ahora sé exactamente cuánto me deben mis amigos. |
+| 🐔 | **Cross The Road RL** | Entorno personalizado de Gymnasium con agente entrenado mediante Q-Learning, SARSA y Expected SARSA. |
+| 🚁 | **STM32 Drone Stabilizer** | Sistema de estabilización de vuelo para dron basado en STM32 y ESP32, con panel de control de vuelo. |
+| 🫘 | **Beans Classification** | Clasificación multiclase sobre datos desbalanceados con ensembles (Random Forest, LightGBM, Stacking) y optimización con Optuna. |
+| 💰 | **ExpenSense** | Aplicación de gestión de gastos compartidos con Spring Boot, PostgreSQL y asistente conversacional con IA. |
 
 <br/>
 
-## 🧰 Arsenal tecnológico
+## 🧰 Tecnologías
 
 <div align="center">
 
@@ -74,7 +73,7 @@ Desarrollador con un pie en el software y otro en el hardware. Si tiene código,
 
 <br/>
 
-## 📈 Números que suben (a veces)
+## 📈 Estadísticas de GitHub
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=javiers2004&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&title_color=38b2ac&icon_color=38b2ac&text_color=8b949e"/>
@@ -87,7 +86,7 @@ Desarrollador con un pie en el software y otro en el hardware. Si tiene código,
 
 <br/>
 
-## 🐍 La serpiente trabaja más que yo
+## 🐍 Actividad de Contribuciones
 
 <div align="center">
   <picture>
@@ -99,7 +98,7 @@ Desarrollador con un pie en el software y otro en el hardware. Si tiene código,
 
 <br/>
 
-## 📬 ¿Hablamos?
+## 📬 Contacto
 
 <div align="center">
   <a href="https://linkedin.com/in/TU_LINKEDIN_AQUI" target="_blank">
@@ -109,7 +108,7 @@ Desarrollador con un pie en el software y otro en el hardware. Si tiene código,
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=2c7a7b&logoColor=white&style=for-the-badge" height="35"/>
   </a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=javiers2004&style=for-the-badge&color=38b2ac&label=CURIOSOS+QUE+HAN+PASADO+POR+AQU%C3%8D"/>
+  <img src="https://komarev.com/ghpvc/?username=javiers2004&style=for-the-badge&color=38b2ac&label=VISITAS+AL+PERFIL"/>
 </div>
 
 <br/>
@@ -117,5 +116,4 @@ Desarrollador con un pie en el software y otro en el hardware. Si tiene código,
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:38b2ac,50:2c7a7b,100:0f2027&height=100&section=footer" width="100%"/>
 
-  *Gracias por llegar hasta aquí. La serpiente y yo te lo agradecemos.* 🐍
 </div>
